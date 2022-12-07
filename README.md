@@ -2,7 +2,7 @@
 <h3 align="center"> Formulário 📄</h1>
 <p align="center"> Desafio de JavaScript Intermediário do DevQuest. <br> <br>
 
-<img align="center" src="https://i.imgur.com/NHCr21B.gif"> 
+<img align="center" src="https://i.imgur.com/poukhY6.gif"> 
   
  <h2 align="center"> Tecnologias utilizadas 💻</h2>
 <div align="center" style="display: inline_block">
